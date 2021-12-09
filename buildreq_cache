@@ -1,0 +1,12 @@
+20.13.0
+pypi(certifi)
+pypi(google_auth)
+pypi(ipaddress)
+pypi(python_dateutil)
+pypi(pyyaml)
+pypi(requests)
+pypi(requests_oauthlib)
+pypi(setuptools)
+pypi(six)
+pypi(urllib3)
+pypi(websocket_client)
