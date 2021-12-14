@@ -4,7 +4,7 @@
 #
 Name     : pypi-kubernetes
 Version  : 20.13.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/bc/3f/d653f476a60c3232660bc043a10e5ee905b08b1ea14b497f82af7739ae22/kubernetes-20.13.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/bc/3f/d653f476a60c3232660bc043a10e5ee905b08b1ea14b497f82af7739ae22/kubernetes-20.13.0.tar.gz
 Summary  : Kubernetes python client
