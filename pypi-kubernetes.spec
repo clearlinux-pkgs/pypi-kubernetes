@@ -14,7 +14,7 @@ Requires: pypi-kubernetes-license = %{version}-%{release}
 Requires: pypi-kubernetes-python = %{version}-%{release}
 Requires: pypi-kubernetes-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pypi(certifi)
 BuildRequires : pypi(google_auth)
@@ -29,7 +29,7 @@ BuildRequires : pypi(urllib3)
 BuildRequires : pypi(websocket_client)
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 # Kubernetes Python Client
