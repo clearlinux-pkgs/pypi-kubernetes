@@ -4,7 +4,7 @@
 #
 Name     : pypi-kubernetes
 Version  : 23.3.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/fc/b3/a01d673d5272c18fdd009a0042c4d0e3870bac1fddc0c8dec2c984d29f4a/kubernetes-23.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fc/b3/a01d673d5272c18fdd009a0042c4d0e3870bac1fddc0c8dec2c984d29f4a/kubernetes-23.3.0.tar.gz
 Summary  : Kubernetes python client
@@ -87,7 +87,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1646097971
+export SOURCE_DATE_EPOCH=1649778704
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
