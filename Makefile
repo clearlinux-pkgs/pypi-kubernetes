@@ -1,5 +1,5 @@
 PKG_NAME := pypi-kubernetes
-URL = https://files.pythonhosted.org/packages/22/eb/6b2385fb2e2b8da2f329a2832cd29b3ca39e462f9719d550c7d55e502a73/kubernetes-24.2.0.tar.gz
+URL = https://files.pythonhosted.org/packages/e5/c7/cc2b5e62216f5e18c8e27b1ae672684ce147e34b2738a4b251023dc4e9bb/kubernetes-25.3.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
