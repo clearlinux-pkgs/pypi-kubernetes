@@ -4,7 +4,7 @@
 #
 Name     : pypi-kubernetes
 Version  : 25.3.0
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/e5/c7/cc2b5e62216f5e18c8e27b1ae672684ce147e34b2738a4b251023dc4e9bb/kubernetes-25.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e5/c7/cc2b5e62216f5e18c8e27b1ae672684ce147e34b2738a4b251023dc4e9bb/kubernetes-25.3.0.tar.gz
 Summary  : Kubernetes python client
