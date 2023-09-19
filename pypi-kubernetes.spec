@@ -4,10 +4,10 @@
 # Using build pattern: distutils3
 #
 Name     : pypi-kubernetes
-Version  : 27.2.0
-Release  : 20
-URL      : https://files.pythonhosted.org/packages/93/bc/49b39ae6415fac500fdaf70e3940b89a44dffb963dad9238f8474bcda666/kubernetes-27.2.0.tar.gz
-Source0  : https://files.pythonhosted.org/packages/93/bc/49b39ae6415fac500fdaf70e3940b89a44dffb963dad9238f8474bcda666/kubernetes-27.2.0.tar.gz
+Version  : 28.1.0
+Release  : 21
+URL      : https://files.pythonhosted.org/packages/3c/5e/d27f39f447137a9a3d1f31142c77ce74bcedfda7dafe922d725c7ef2da33/kubernetes-28.1.0.tar.gz
+Source0  : https://files.pythonhosted.org/packages/3c/5e/d27f39f447137a9a3d1f31142c77ce74bcedfda7dafe922d725c7ef2da33/kubernetes-28.1.0.tar.gz
 Summary  : Kubernetes python client
 Group    : Development/Tools
 License  : Apache-2.0
@@ -81,10 +81,10 @@ python3 components for the pypi-kubernetes package.
 
 
 %prep
-%setup -q -n kubernetes-27.2.0
-cd %{_builddir}/kubernetes-27.2.0
+%setup -q -n kubernetes-28.1.0
+cd %{_builddir}/kubernetes-28.1.0
 pushd ..
-cp -a kubernetes-27.2.0 buildavx2
+cp -a kubernetes-28.1.0 buildavx2
 popd
 
 %build
@@ -92,7 +92,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1689694075
+export SOURCE_DATE_EPOCH=1695140869
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
