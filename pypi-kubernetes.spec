@@ -7,7 +7,7 @@
 #
 Name     : pypi-kubernetes
 Version  : 32.0.0
-Release  : 29
+Release  : 30
 URL      : https://files.pythonhosted.org/packages/bc/7f/15bcdf96c91f7a7b74d524c1bd058e0a2ef37eb6128cf16dca5c8b613aa0/kubernetes-32.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/bc/7f/15bcdf96c91f7a7b74d524c1bd058e0a2ef37eb6128cf16dca5c8b613aa0/kubernetes-32.0.0.tar.gz
 Summary  : Kubernetes python client
